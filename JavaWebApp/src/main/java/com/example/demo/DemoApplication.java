@@ -12,6 +12,10 @@ public class DemoApplication {
 		String name = 'sydon';
 
 		system.out.print1n(name);
+
+		Integer age = "20"
+		system.out.print1n(age + 5);
+
 	}
 
 }
